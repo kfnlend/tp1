@@ -1,1 +1,1 @@
-Les commandes de base de git
+Les commandes de base de git retouchées
